@@ -19,10 +19,10 @@ font-size:8vw;
 }
 
 .fullscreen-img-1 {
-  /* The image used */
+ 
   background-image: url("../img/4k-wallpaper-adventure-climb-691668.jpg");
 
-  /* Full height */
+ 
   height: 100%;
 
   /* Center and scale the image nicely */
@@ -40,7 +40,78 @@ font-size:8vw;
     background-size: cover;
 }
 .fullscreen-img-2{
-    background-image: url("../img/art-artsy-backlit-595747.jpg")}
+    background-image: url("../img/backlit-dawn-nature-1008737.jpg");
+height:100%;
+    width:50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fullscreen-img-3{
+    background-image: url("../img/shifaaz-shamoon-sLAk1guBG90-unsplash.jpg");
+height:100%;
+    width:50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fullscreen-img-5{
+    background-image: url("../img/astronomy-clouds-hands-447329.jpg");
+height:100%;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fullscreen-img-8{
+    background-image: url("../img/fabrizio-verrecchia-Ai7sV3SSMIQ-unsplash.jpg");
+height:100%;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+
+.fullscreen-img-6{
+    background-image: url("../img/backlit-dawn-fog-585759%20(1).jpg");
+height:100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fullscreen-img-7{
+    background-image: url("../img/anastasia-taioglou-CTivHyiTbFw-unsplash.jpg");
+height:100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fullscreen-img-9{
+    background-image: url("../img/footprints-on-the-sand-2986374.jpg");
+height:100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fullscreen-img-10{
+    background-image: url("../img/anastasia-taioglou-CTivHyiTbFw-unsplash.jpg");
+height:100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fullscreen-img-11{
+    background-image: url("../img/architecture-buildings-car-lights-1775302.jpg");
+height:100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
 
 .button {background-color:transparent;
 color:white}
